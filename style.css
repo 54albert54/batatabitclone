@@ -472,6 +472,7 @@ color: var(--black);
   border-radius: 10px;
   font-family: 'DM Sans', sans-serif;
   display: flex;
+  color: #000;
   flex-direction: row;
   justify-content: center;
   align-items: center;
